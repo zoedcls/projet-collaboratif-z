@@ -6,4 +6,31 @@ Pour garantir une compréhension et un contrôle complets des processus, une tra
 Par ailleurs, garantir l’équité est un défi majeur dans le développement des technologies de l’IA. Cela implique non seulement d’éviter les biais algorithmiques, mais aussi de s’assurer que les systèmes sont inclusifs. Pour y parvenir, il faut analyser les données d’entrée, les modèles d’apprentissage et les résultats produits, tout en impliquant des équipes diversifiées dans le processus de conception.
 
 En outre, l’IA doit être accessible à tous, sans distinction de capacités physiques, cognitives ou sociales. Ce souci d’inclusion reflète l’engagement à éviter toute forme de discrimination, qu’elle soit directe ou indirecte.
-djviezhiobgeha
+
+II. Le Règlement européen sur l’IA (RIA) : un cadre juridique innovant.
+Le cadre juridique européen représente une tentative ambitieuse de réguler les systèmes d’IA à 
+haut risque. Adopté en août 2024, le RIA fixe des exigences strictes pour garantir la sécurité, 
+la redevabilité et la transparence des technologies d’IA. Parmi ses principales dispositions, 
+certaines pratiques sont formellement interdites, comme l’utilisation de techniques subliminales 
+ou intentionnellement trompeuses. Ces méthodes, qui cherchent à manipuler le comportement des 
+utilisateurs sans leur consentement conscient, constituent une violation des principes fondamentaux 
+de liberté individuelle.
+
+De manière similaire, l’exploitation des vulnérabilités est strictement prohibée. 
+Cette interdiction s’applique aux cas où les caractéristiques personnelles d’un individu - telles 
+que son âge, sa santé ou sa situation sociale - sont utilisées pour influencer de manière abusive 
+son comportement, en lui causant un préjudice significatif. Ces infractions graves peuvent entraîner 
+des sanctions considérables, telles que des amendes élevées ou des restrictions commerciales. 
+Ce faisant, le RIA cherche à protéger les utilisateurs contre des abus potentiels et à créer un 
+environnement de confiance autour des technologies d’IA.
+
+III. Éthique dès la conception : un impératif pour les développeurs.
+Au-delà des interdictions, le RIA insiste sur l’éthique dès la conception des systèmes d’IA. 
+Cette approche proactive vise à anticiper et à réduire les risques dès les premières étapes 
+du développement. Elle repose sur plusieurs axes, notamment la transparence, la sécurité et 
+la gouvernance des données. Les systèmes doivent être conçus pour minimiser les biais, 
+protéger la confidentialité des utilisateurs et garantir un audit rigoureux tout au long de 
+leur cycle de vie.
+
+
+
