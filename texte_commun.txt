@@ -6,3 +6,4 @@ Pour garantir une compréhension et un contrôle complets des processus, une tra
 Par ailleurs, garantir l’équité est un défi majeur dans le développement des technologies de l’IA. Cela implique non seulement d’éviter les biais algorithmiques, mais aussi de s’assurer que les systèmes sont inclusifs. Pour y parvenir, il faut analyser les données d’entrée, les modèles d’apprentissage et les résultats produits, tout en impliquant des équipes diversifiées dans le processus de conception.
 
 En outre, l’IA doit être accessible à tous, sans distinction de capacités physiques, cognitives ou sociales. Ce souci d’inclusion reflète l’engagement à éviter toute forme de discrimination, qu’elle soit directe ou indirecte.
+____
