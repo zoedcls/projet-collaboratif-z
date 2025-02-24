@@ -1,6 +1,9 @@
 
 En outre, l’IA doit être accessible à tous, sans distinction de capacités physiques, cognitives ou sociales. Ce souci d’inclusion reflète l’engagement à éviter toute forme de discrimination, qu’elle soit directe ou indirecte.
 
+____
+=======
+
 II. Le Règlement européen sur l’IA (RIA) : un cadre juridique innovant.
 Le cadre juridique européen représente une tentative ambitieuse de réguler les systèmes d’IA à 
 haut risque. Adopté en août 2024, le RIA fixe des exigences strictes pour garantir la sécurité, 
@@ -41,4 +44,5 @@ Un autre aspect essentiel de la régulation de l’IA concerne le code de bonnes
 Ce code reflète également l’importance de la coopération internationale. Alors que les réglementations européennes se veulent exemplaires, elles doivent s’aligner sur les initiatives mondiales pour garantir une harmonisation et éviter les distorsions commerciales. La première version du code, publiée en novembre 2024, est considérée comme une étape importante vers la version finale attendue en 2025. En adoptant des pratiques transparentes et responsables, les acteurs de l’IA peuvent contribuer à une gouvernance équilibrée, qui favorise l’innovation tout en protégeant les intérêts des utilisateurs.
 
 En conclusion, l’année 2024 marque un tournant décisif dans la régulation et l’éthique de l’IA. Les initiatives telles que le RIA et le code de bonnes pratiques illustrent la volonté de créer un écosystème technologique plus sûr, transparent et équitable. Toutefois, l’efficacité de ces mesures dépend de leur mise en œuvre concrète et de l’engagement des différents acteurs. L’IA, tout en étant une technologie porteuse d’espoirs, doit continuer à être surveillée et guidée par des principes éthiques solides pour répondre aux besoins et aux attentes de nos sociétés.
+
 
